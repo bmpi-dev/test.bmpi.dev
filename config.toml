@@ -1,4 +1,4 @@
-baseurl = "https://frosty-colden-937773.netlify.com/"
+baseurl = "https://test.bmpi.dev/"
 title = "johndoe"
 
 theme = "hugo-coder"
