@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://frosty-colden-937773.netlify.com/"
 title = "johndoe"
 
 theme = "hugo-coder"
